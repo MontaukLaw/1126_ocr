@@ -1,0 +1,7 @@
+/home/marc/1126_ocr/rknn_ocr/build/CMakeFiles/rknn_ocr.dir
+/home/marc/1126_ocr/rknn_ocr/build/CMakeFiles/edit_cache.dir
+/home/marc/1126_ocr/rknn_ocr/build/CMakeFiles/rebuild_cache.dir
+/home/marc/1126_ocr/rknn_ocr/build/CMakeFiles/list_install_components.dir
+/home/marc/1126_ocr/rknn_ocr/build/CMakeFiles/install.dir
+/home/marc/1126_ocr/rknn_ocr/build/CMakeFiles/install/local.dir
+/home/marc/1126_ocr/rknn_ocr/build/CMakeFiles/install/strip.dir
